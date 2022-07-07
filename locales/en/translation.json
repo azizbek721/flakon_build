@@ -1,0 +1,120 @@
+{
+    "title": "Internationalizing with i18next",
+    "description": {
+        "part1": "Home",
+        "part2": "Products"
+    },
+    "header": {
+        "part3": "Bottle These are containers for storing perfume liquids with a screw cap or a simple glass stopper.",
+        "header-btn": "Choose a package"
+    },
+    "form-for-you": {
+        "form-for-you": "Let us help you find the perfect package for you.",
+        "form-you-btn": "Send"
+    },
+    "about-us": {
+        "our-company": "Our company",
+        "our-company-info": "The Flakon.uz promotion is the largest trading platform for plastic containers in Uzbekistan. Flakon.uz was founded in 2007 and currently has more than 30 production units. The total area of \u200B\u200Bproduction department, warehouse department and sales department is more than 40,000 square meters. We sell our plastic containers to all regions of Uzbekistan and export our products to Kazakhstan, Tajikistan, Afghanistan, Kyrgyzstan and Turkmenistan to Central Asia.",
+        "our-company-btn": "Order a package"
+    },
+    "you-need": {
+        "need-h2": "We make the boxes you need",
+        "need-h5": "Go to catalog"
+    },
+    "for-you": {
+        "for-h1": "Need a unique package? We will develop it for you!",
+        "for-p": "The embodiment of any design ideas from simple to the most complex packaging solutions",
+        "for-btn": "Choose a package"
+    },
+    "why-we": {
+        "left-h3": "Why us?",
+        "left-h6": "Support",
+        "over-p": "Our consultants will help you understand the features of our company. They will also help you find an individual solution just for you.",
+        "left-h6-2": "Experience",
+        "over-p2": "For many years, our company has been successfully producing packaging of any kind, for a variety of solutions.",
+        "left-h6-3": "Service",
+        "over-p3": "Our company will bring to life any design idea of cardboard packaging in high quality and in a very short time."
+    },
+    "accord": {
+        "accord-h2": "We will answer your questions",
+        "question": "How is the cost of an order calculated?",
+        "answer": "Yes. We have packaging specially designed for food storage. You can order individual sizes for your products by filling out a special form on our site.",
+        "question2": "How quickly will my order be completed?",
+        "answer2": "",
+        "question3": "How much does shipping cost for my order?",
+        "answer3": "",
+        "question4": "Are your products suitable for food storage?",
+        "answer4": "",
+        "question5": "What documents do you need to provide?",
+        "answer5": ""
+    },
+    "contact": {
+        "contact-h2": "Location and contacts",
+        "contact-h": "The address:",
+        "contact-h-2": "Number:"
+    },
+    "footer":{
+        "foot-title": "Catalog",
+        "foot-title2": "Informations",
+        "foot-title3": "Contacts",
+        "title-list": "Hope Bottles",
+        "title-list2": "Pet Bottles",
+        "title-list3": "Food Pack",
+        "title-list4": "Caps",
+        "title-list5": "About us",
+        "title-list6": "Team",
+        "title-list7": "Delivery",
+        "title-list8": "Our service"
+    },
+    "toast": {
+        "product-added": "Products is added",
+        "product-deleted": "Products is successfully deleted"
+    },
+    "side-bar": {
+        "search": "Search",
+        "categories": "Categories",
+        "all-category": "All",
+        "pet-category": "Pet Bottles",
+        "hdpe-category": "HDPE Bottles",
+        "price-range": "Price Range",
+        "price": "Price"
+    },
+    "sorting": {
+        "sort": "Sorting",
+        "ascending": "Ascending",
+        "descending": "descending",
+        "width": "width"
+    },
+    "cart-links": {
+        "home": "Home",
+        "products": "Products",
+        "shopping-cart": "Shopping Cart"
+    },
+    "cart-inner": {
+        "price": "Price",
+        "quantity": "Quantity",
+        "total": "Total"
+    },
+    "empty-cart": {
+        "empty-cart": "Your cart is empty"
+    },
+    "cart-right": {
+        "cart-totals": "Cart Totals",
+        "track-order": "Order",
+        "continue-shopping": "Continue Shopping"
+    },
+    "product-description": {
+        "desc-title": "Briefly about the product:",
+        "volume": "Volume (ml)",
+        "width": "Width (mm)",
+        "height": "Height (mm)",
+        "material": "Material",
+        "weight": "Weight (gr)",
+        "category": "Category",
+        "min-order": "Minimum order"
+    },
+    "add-cart": {
+        "add-to-cart": "add to cart",
+        "cancel": "сancel"
+    }
+}

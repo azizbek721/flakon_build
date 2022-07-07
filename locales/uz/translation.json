@@ -1,0 +1,121 @@
+{
+    "title": "Интернационализация с i18next",
+    "description": {
+        "part1": "Asosiy",
+        "part2": "Mahsulotlar"
+    },
+    "header": {
+        "part3": "Shisha Bu vintli qopqoq yoki oddiy shisha tiqin bilan parfyum suyuqliklarini saqlash uchun idishlar.",
+        "header-btn": "Paketni tanlang"
+    },
+    "form-for-you": {
+        "form-for-you": "Keling, siz uchun mukammal paketni topishga yordam beramiz.",
+        "form-you-btn": "Yuborish"
+    },
+    "about-us": {
+        "our-company": "Bizning kompaniyamiz",
+        "our-company-info": "Flakon.uz aksiyasi O‘zbekistondagi plastik idishlarning eng yirik savdo maydonchasi hisoblanadi. Flakon.uz 2007-yilda tashkil etilgan va hozirda 30 dan ortiq ishlab chiqarish birliklariga ega. Ishlab chiqarish bo'limi, ombor bo'limi va savdo bo'limining umumiy maydoni 40 000 kvadrat metrdan ortiq. Plastmassa idishlarimizni O‘zbekistonning barcha hududlariga sotamiz, mahsulotlarimizni Qozog‘iston, Tojikiston, Afg‘oniston, Qirg‘iziston va Turkmanistonga Markaziy Osiyoga eksport qilamiz.",
+        "our-company-btn": "Paketga buyurtma bering"
+    },
+    "you-need": {
+        "need-h2": "Sizga kerak bo'lgan qutilarni tayyorlaymiz",
+        "need-h5": "Katalogga o'ting"
+    },
+    "for-you": {
+        "for-h1": "Noyob paket kerakmi? Biz uni siz uchun ishlab chiqamiz!",
+        "for-p": "Oddiydan tortib eng murakkab qadoqlash yechimlarigacha bo'lgan har qanday dizayn g'oyalarining timsolidir",
+        "for-btn": "Paketni tanlang"
+    },
+    "why-we": {
+        "left-h3": "Nega biz?",
+        "left-h6": "Qo'llab-quvvatlash",
+        "over-p": "Bizning maslahatchilarimiz kompaniyamizning xususiyatlarini tushunishga yordam beradi. Ular, shuningdek, faqat siz uchun individual yechim topishga yordam beradi.",
+        "left-h6-2": "Tajriba",
+        "over-p2": "Ko'p yillar davomida kompaniyamiz turli xil echimlar uchun har qanday turdagi qadoqlarni muvaffaqiyatli ishlab chiqarmoqda.",
+        "left-h6-3": "Xizmat",
+        "over-p3": "Bizning kompaniyamiz karton qadoqlashning har qanday dizayn g'oyasini yuqori sifatli va juda qisqa vaqt ichida hayotga tatbiq etadi."
+    },
+    "accord": {
+        "accord-h2": "Savollaringizga javob beramiz",
+        "question": "Buyurtmaning narxi qanday hisoblanadi?",
+        "answer": "Ha. Bizda oziq-ovqat mahsulotlarini saqlash uchun maxsus mo'ljallangan qadoqlash mavjud. Bizning saytimizda maxsus shaklni to'ldirib, mahsulotingiz uchun individual o'lchamlarga buyurtma berishingiz mumkin.",
+        "question2": "Mening buyurtmam qanchalik tez bajariladi?",
+        "answer2": "",
+        "question3": "Buyurtmani yetkazib berish qancha turadi?",
+        "answer3": "",
+        "question4": "Mahsulotlaringiz oziq-ovqat mahsulotlarini saqlash uchun mosmi?",
+        "answer4": "",
+        "question5": "Qanday hujjatlarni taqdim etishingiz kerak?",
+        "answer5": ""
+    },
+    "contact": {
+        "contact-h2": "Joylashuv va kontaktlar",
+        "contact-h": "Manzil:",
+        "contact-h-2": "Raqam:"
+    },
+    "footer":{
+        "foot-title": "Katalog",
+        "foot-title2": "Ma'lumotlar",
+        "foot-title3": "Kontaktlar",
+        "title-list": "Umid shishalari",
+        "title-list2": "Uy hayvonlari uchun idishlar",
+        "title-list3": "Oziq-ovqat to'plami",
+        "title-list4": "Qopqoqlar",
+        "title-list5": "Biz haqimizda",
+        "title-list6": "Jamoa",
+        "title-list7": "Yetkazib berish",
+        "title-list8": "Bizning xizmatimiz"
+    },
+    "toast": {
+        "product-added": "Mahsulot qo'shildi",
+        "product-deleted": "Mahsulot muvaffaqiyatli o'chirildi"
+    },
+    "side-bar": {
+        "search": "Qidiruv",
+        "categories": "Kategoriyalar",
+        "all-category": "Barchasi",
+        "pet-category": "Pet kategoriyalar",
+        "hdpe-category": "HDPE kategoriyalar",
+        "price-range": "narx oralig'i",
+        "price": "narx"
+    },
+    "sorting": {
+        "sort": "Saralash",
+        "ascending": "Ko'tarilish",
+        "descending": "tushayotgan",
+        "width": "kengligi"
+    },
+    "cart-links": {
+        "home": "Asosiy",
+        "products": "Mahsulotlar",
+        "shopping-cart": "Xarid savati"
+    },
+    "cart-inner": {
+        "price": "Narx",
+        "quantity": "Miqdori",
+        "total": "Jami"
+    },
+    "empty-cart": {
+        "empty-cart": "Savatingiz boʻsh"
+    },
+    "cart-right": {
+        "cart-totals": "Savat jami",
+        "track-order": "Buyurtma qilish",
+        "continue-shopping": "Xarid qilishda davom eting"
+    },
+    "product-description": {
+        "desc-title": "Mahsulot haqida qisqacha:",
+        "volume": "Hajmi (ml)",
+        "width": "Kengligi (mm)",
+        "height": "Balandligi (mm)",
+        "material": "Material",
+        "weight": "Vazn (gr)",
+        "category": "Kategoriya",
+        "min-order": "Minimal buyurtma"
+    },
+    "add-cart": {
+        "add-to-cart": "savatchaga qo'shish",
+        "cancel": "bekor qilish"
+    }
+}
+

@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7b94cfd0.css",
+    "main.js": "/static/js/main.e7c08c02.js",
+    "static/media/about_us.png": "/static/media/about_us.0a01a96d639177d3ef7f.png",
+    "static/media/for_you.png": "/static/media/for_you.d945795256597a6d134b.png",
+    "static/media/header_slide.png": "/static/media/header_slide.61eec56af105f6d2a79e.png",
+    "static/media/preloader_ps_fast.gif": "/static/media/preloader_ps_fast.5c8d1eb4a6265280f7a7.gif",
+    "static/media/why_we.png": "/static/media/why_we.826d9ec015af2fd5cb01.png",
+    "static/media/bg_media.png": "/static/media/bg_media.0022d4c0fa3afa63a0a6.png",
+    "static/media/CeraPro-Regular.ttf": "/static/media/CeraPro-Regular.1b7f7963cbafd9cc1e33.ttf",
+    "static/media/you_need1.png": "/static/media/you_need1.a13b25b6585715c69603.png",
+    "static/media/you_need3.png": "/static/media/you_need3.99a7164ca06fa8c0479c.png",
+    "static/media/you_need2.png": "/static/media/you_need2.d6be4303dc0a0b0abce5.png",
+    "static/media/you_need.png": "/static/media/you_need.b1948e479413b9d725ec.png",
+    "static/media/CeraPro-Regular.woff": "/static/media/CeraPro-Regular.c7da3a40565f40d48ea7.woff",
+    "static/media/CeraPro-Regular.woff2": "/static/media/CeraPro-Regular.98174a78a68fda76bc80.woff2",
+    "static/media/navlogo.png": "/static/media/navlogo.fcdb71d5eb1d3e31de5e.png",
+    "static/media/logo.png": "/static/media/logo.6f72b8c5fb1026aa15b3.png",
+    "index.html": "/index.html",
+    "static/media/delete-icon.svg": "/static/media/delete-icon.7f47fd70e971763872b73a372685db6a.svg",
+    "static/media/getFetch.cjs": "/static/media/getFetch.c780682470504fffbd04.cjs",
+    "main.7b94cfd0.css.map": "/static/css/main.7b94cfd0.css.map",
+    "main.e7c08c02.js.map": "/static/js/main.e7c08c02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b94cfd0.css",
+    "static/js/main.e7c08c02.js"
+  ]
+}
